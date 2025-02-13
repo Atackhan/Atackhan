@@ -1,6 +1,6 @@
 <h3 align="center">A passionate ML Engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **R, Python and TensorFlow**
+- 🌱 I’m currently learning **R, Python and ML(Tensorflow, scikit learn)**
 
 - 📫 How to reach me **aknatakan6@gmail.com**
 
